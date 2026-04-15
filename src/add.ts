@@ -3,5 +3,5 @@ export function add(a: number, b: number): number {
 }
 
 export function helloWorld() {
-  console.log('hello world')
+  console.log('hello world!')
 }
