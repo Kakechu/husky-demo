@@ -19,16 +19,15 @@ function App() {
       <h2>Main Husky hooks</h2>
       <ul>
         <li>
-          <code>pre-commit</code> – run checks (like lint, tests, or
-          formatters) before a commit is created
+          <code>pre-commit</code> – run checks (like lint, tests, or formatters)
+          before a commit is created
         </li>
         <li>
-          <code>pre-push</code> – run checks before code is pushed to the
-          remote
+          <code>pre-push</code> – run checks before code is pushed to the remote
         </li>
         <li>
-          <code>commit-msg</code> – validate the commit message (for example
-          to enforce a convention)
+          <code>commit-msg</code> – validate the commit message (for example to
+          enforce a convention)
         </li>
       </ul>
     </>
